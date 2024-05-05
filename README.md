@@ -1,4 +1,7 @@
 # DIP_Lab6
+
+https://lucid.app/lucidchart/cc028501-18f0-470b-a33d-927fce59a6cf/edit?viewport_loc=-454%2C-520%2C1664%2C1083%2C0_0&invitationId=inv_5c6533e8-d104-4556-a66f-bf1eda6915b9
+
 The NEU Library offers a variety of resources, including books, theses, capstones, internet access, journals, and newspapers.
 
 Currently, the Student object has methods like borrowBook(), borrowJournal() with a parameter of title, which directly depend on specific resource types.
