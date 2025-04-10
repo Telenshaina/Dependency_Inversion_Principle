@@ -34,7 +34,6 @@ public class Library implements Borrower {
     }
 
     private boolean isAvailable(Item item) {
-        // Simplified availability check (you can add more complex logic here)
-        return true; // Assume all items are available for demonstration
-    }
+        
+        return true; 
 }

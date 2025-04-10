@@ -6,6 +6,7 @@ public abstract class Item {
         this.title = title;
         this.author = author;
     }
+//getters
 
     public String getTitle() {
         return title;
